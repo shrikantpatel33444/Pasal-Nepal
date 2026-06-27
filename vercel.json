@@ -12,7 +12,7 @@
   "env": {
     "NEXT_PUBLIC_SUPABASE_URL": "https://crdibkggojurftxqxtca.supabase.co",
     "NEXT_PUBLIC_SUPABASE_ANON_KEY": "sb_publishable_e_J7B6MZ8jB1gLft21nsQg_84Qj1sCY",
-    "SUPABASE_SERVICE_ROLE_KEY": "sb_secret_KPa5aWiqplcsU7J1Cv17-A_ZFslCJkG",
+    "SUPABASE_SERVICE_ROLE_KEY": "your_supabase_service_role_key_here",
     "VITE_SUPABASE_URL": "https://crdibkggojurftxqxtca.supabase.co",
     "VITE_SUPABASE_ANON_KEY": "sb_publishable_e_J7B6MZ8jB1gLft21nsQg_84Qj1sCY",
     "VITE_GOOGLE_CLIENT_ID": "1065078894672-rmp5kp8vfjns5rn9kp5psfp16g691043.apps.googleusercontent.com",
